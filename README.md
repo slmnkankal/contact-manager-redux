@@ -1,6 +1,8 @@
 
 https://github.com/slmnkankal/contact-manager-redux/blob/main/contact-manager.gif
 
+![contact-manager](https://user-images.githubusercontent.com/94119964/186584611-a612be7a-4e74-4bb4-925e-ebca13287f15.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
